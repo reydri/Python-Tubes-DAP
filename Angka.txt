@@ -1,0 +1,2 @@
+ukuran :7
+harga : 200000
